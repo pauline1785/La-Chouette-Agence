@@ -813,7 +813,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -864,7 +864,7 @@ h4 {
         position: relative;
     }
     .bloc {
-        padding-left: 10px);
+        padding-left: 10px;
         padding-right: 10px;
     }
     .bloc-group,
