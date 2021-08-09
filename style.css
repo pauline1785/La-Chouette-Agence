@@ -701,7 +701,7 @@ h1 {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
     text-align: center;
 }
@@ -877,6 +877,13 @@ h4 {
         padding: 0 20px;
         padding-left: 10px;
         padding-right: 10px;
+    }
+    .hero-bloc-text {
+        font-size: 28px;
+    }
+    
+    #bloc-2-services h2{
+        margin: 0 20px;
     }
 }
 
